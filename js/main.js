@@ -107,6 +107,7 @@ const displayDetails = newsCards =>{
     }
     toggleSpinner(false);
 }
+showDetails("01");
 
 
 // Modal 
